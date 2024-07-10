@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:incentive_app/home_view.dart';
+import 'package:incentive_app/views/home_view.dart';
 
 void main() {
   runApp(const MyApp());
